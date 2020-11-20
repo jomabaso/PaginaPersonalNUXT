@@ -1,5 +1,5 @@
 {
-  "name": "DeveloperJorgeBarrientos",
+  "name": "developerjorgebarrientos",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -10,7 +10,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
     "ant-design-vue": "^1.6.5",
+    "bulma": "^0.9.1",
     "core-js": "^3.6.5",
     "nuxt": "^2.14.6"
   },
